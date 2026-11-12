@@ -903,6 +903,7 @@ ul, ol {
 
     .slide-nav {
         padding: 0 20px;
+        top: 10px;
     }
 
 }
