@@ -1052,6 +1052,7 @@ ul, ol {
     .slide-nav {
         gap: 8px;
         padding: 0 8px;
+        top: 10px;
     }
 
     .btn-nav {
